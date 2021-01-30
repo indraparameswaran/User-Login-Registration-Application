@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h3>Welcome to Registration Page</h3><br>
 <form method="post" action="Register">
 <label> Enter First Name : </label>
 <input type ="text" name="firstname"  required="required"/>
